@@ -1,0 +1,6 @@
+{
+  "name": "Workshoptest",
+  "tagline": "A test of a workshop concept for teaching Git",
+  "body": "## Git Version Control\r\nThis workshop will ideally teach you about how to use git to version control your development.\r\n\r\n## Edit this text\r\nBelow here please add a little message beside your name.\r\n* Erik:\r\n* Tim:\r\n* Samantha:\r\n* Jack:\r\n* Alicia:\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
